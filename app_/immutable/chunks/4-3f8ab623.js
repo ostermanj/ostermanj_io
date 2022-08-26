@@ -1,0 +1,1 @@
+import{default as m}from"../components/pages/_type_/_year_/_month_/_day_/_slug_/_page.svelte-21dd9520.js";import"./index-ffb4f659.js";import"./paths-9b83c8fd.js";const t=!0;export{m as component,t as server};
